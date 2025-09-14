@@ -1,22 +1,21 @@
 # lili_lana
 # 🌌 Hey there! Welcome to my universe ✨
 
-I'm a **Computer Science student** passionate about coding, problem-solving, and technology.  
+I'm a **Computer Science student** interested about coding, problem-solving, and technology.  
 Currently learning and exploring new tools every day 🚀
 
 ---
 
 ## 🌠 About Me
 - 🎓 Computer Science student
-- ☕ Coffee lover + code explorer
 - 🌱 Learning step by step: algorithms, data structures & web development
-- 💡 Curious mind, always building something new
+- 💡 Curious mind, always up to learn something new
 
 ---
 
 ## 🪐 Tech Stack
 
-✨ Languages & Tools I’m working with:  
+✨ Languages & Tools I’m learning to work with:  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -32,16 +31,9 @@ Currently learning and exploring new tools every day 🚀
 - Object-Oriented Programming
 - Web Development Basics
 - Problem-Solving with Java & Kotlin
+- Data structures in Python and C
 
 ---
 
-## 🌟 GitHub Stats
-
-![Lívia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
-## 🌌 Final Note
-🌠 *One commit at a time, exploring infinite possibilities...*
+🌠 *One commit at a time, exploring possibilities...*
+Early in my journey, focusing on learning core concepts like algorithms and data structures and taking my first steps into the world of programming.
