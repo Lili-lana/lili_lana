@@ -1,4 +1,3 @@
-# lili_lana
 # 🌌 Hey there! Welcome to my universe ✨
 
 I'm a **Computer Science student** interested about coding, problem-solving, and technology.  
