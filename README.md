@@ -1,6 +1,6 @@
 # 🌌 Hey there! Welcome to my universe ✨
 
-I'm a **Computer Science student** interested about coding, problem-solving, and technology.  
+I'm Lili a **Computer Science student** interested about coding, problem-solving, and technology.  
 Currently learning and exploring new tools every day 🚀
 
 ---
